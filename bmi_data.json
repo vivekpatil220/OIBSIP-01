@@ -1,0 +1,80 @@
+[
+    {
+        "Weight": 49.0,
+        "Height": 1.6,
+        "BMI": 19.140624999999996,
+        "Category": "Normal Weight"
+    },
+    {
+        "Weight": 48.0,
+        "Height": 1.24,
+        "BMI": 31.21748178980229,
+        "Category": "Obese"
+    },
+    {
+        "Weight": 20.0,
+        "Height": 0.67,
+        "BMI": 44.553352639786134,
+        "Category": "Obese"
+    },
+    {
+        "Weight": 74.0,
+        "Height": 1.54,
+        "BMI": 31.20256367009614,
+        "Category": "Obese"
+    },
+    {
+        "Weight": 92.0,
+        "Height": 1.54,
+        "BMI": 38.792376454714116,
+        "Category": "Obese"
+    },
+    {
+        "Weight": 92.0,
+        "Height": 1.02,
+        "BMI": 88.42752787389466,
+        "Category": "Obese"
+    },
+    {
+        "Weight": 92.0,
+        "Height": 1.02,
+        "BMI": 88.42752787389466,
+        "Category": "Obese"
+    },
+    {
+        "Weight": 92.0,
+        "Height": 1.02,
+        "BMI": 88.42752787389466,
+        "Category": "Obese"
+    },
+    {
+        "Weight": 92.0,
+        "Height": 1.02,
+        "BMI": 88.42752787389466,
+        "Category": "Obese"
+    },
+    {
+        "Weight": 54.0,
+        "Height": 1.02,
+        "BMI": 51.90311418685121,
+        "Category": "Obese"
+    },
+    {
+        "Weight": 54.0,
+        "Height": 0.87,
+        "BMI": 71.3436385255648,
+        "Category": "Obese"
+    },
+    {
+        "Weight": 58.0,
+        "Height": 1.45,
+        "BMI": 27.586206896551722,
+        "Category": "Overweight"
+    },
+    {
+        "Weight": 58.0,
+        "Height": 1.45,
+        "BMI": 27.586206896551722,
+        "Category": "Overweight"
+    }
+]
